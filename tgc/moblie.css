@@ -1,0 +1,83 @@
+
+@media only screen and (max-width: 600px) {
+/* .fixed-top{
+
+} */
+
+.navbar-container .pw{
+    width: auto;
+}
+
+.navbar-container .pw img {
+    padding-top: 0px;
+    padding-right: 0px;
+    width: 25%;
+}
+
+.navbar-container .no .font {
+    color: #fff;
+    padding-top: 5px;
+    font-size: 15px;
+    padding-left: 5%;
+}
+
+.navbar-container .navbar-colspan ul i{
+    font-size: 24px;
+    position: relative;
+    right: -260px;
+    color: #fff;
+}
+
+.navbar-container .navbar-colspan ul li{
+    display: none;
+}
+
+.btn .btn1{
+    display: none;
+}
+
+
+
+.main-section .parent-div{
+    display: block;
+}
+
+
+.parent-div .child img{
+    width: 100%;
+}
+
+.main-section .heading2{
+    font-size: 19px;
+    
+    font-family: sans-serif;
+}
+
+.parent-div .child{
+    width: 100%;
+}
+
+
+.sec5 .all-container{
+    display: block;
+}
+.all-container .container2{
+width: 100%;
+}
+
+
+
+.demo1 .demo2{
+    margin: 0px;
+    background-repeat: none;
+}
+
+
+.course{
+    display: block;
+}
+
+br{
+    
+}
+}
